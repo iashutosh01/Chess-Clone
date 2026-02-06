@@ -4,6 +4,7 @@ import GameContainer from "../components/game-page-components/GameContainer";
 
 
 const Game = () => {
+  
   return (
     <div className="app-container">
       <SideNav /> {/* Render the SideNav */}
